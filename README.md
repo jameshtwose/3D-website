@@ -61,9 +61,3 @@ If you want to edit the scene, start by opening `story/main.js` and `story/index
 **Troubleshooting**
 - If `npm install` fails, check your Node.js version and network connectivity.
 - If the dev server port is in use, Vite will suggest another port — open the suggested URL.
-
-**Next steps / Optional improvements**
-- Add a short example that shows how to load a model or add basic controls.
-- Add a CONTRIBUTING.md and a small test or lint step in `package.json`.
-
-If you'd like, I can also update `story/index.html` comments or add a `CONTRIBUTING.md` with more detailed student-facing guidance. What would you like next?
